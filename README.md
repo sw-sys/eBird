@@ -1,2 +1,5 @@
-# eBird
-Using the ebird.api in Python to report unusual sightings in my area and of birds I want to track.
+### eBird
+
+# Using the ebird.api in Python to get observations:
+* manchester_bird_finder.py - gets recent local unusual observation details
+* GET_multiple_historic_obs.py - downloads all observations over multiple daily files and concats in to monthly reports
